@@ -11,3 +11,9 @@
 Из скриншота видно, что установлены флаги:
 Recursion Desired
 Recursion Available
+
+## Задание 4*. ZAP
+
+![Zap_Netology](https://user-images.githubusercontent.com/55884879/202698827-01145fda-a98f-4f8e-8051-5d2c6e5318be.png)
+
+Из скиншота видно, что программа курса имеет номер 23178
